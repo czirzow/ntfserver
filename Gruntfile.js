@@ -12,7 +12,8 @@ module.exports = function(grunt) {
 					'bower_components/rickshaw/vendor/d3.min.js',
 					'bower_components/rickshaw/vendor/d3.layout.min.js',
 					'bower_components/rickshaw/rickshaw.min.js',
-					'bower_components/swig/js/swig.min.js'
+					'bower_components/swig/js/swig.min.js',
+					'bower_components/swig/js/swig.js.map'
 				],
 				dest: 'deps/vendor.js'
 			},
