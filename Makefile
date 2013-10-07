@@ -11,7 +11,6 @@ build: clean static_setup
 
 static_setup:
 	bower install
-	grunt build
 
 static: static_setup
 	rm -fr deps bower_components
