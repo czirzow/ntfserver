@@ -15,15 +15,15 @@
     "setting": ">= 0.1.0",
     "socket.io": ">= 0.9.2",
     "swig": "0.13.4",
-    "uglify-js": ">= 2.2.5",
+    "uglify-js": ">= 2.2.5"
+  },
+  "devDependencies": {
+    "nodeunit": ">= 0.6.4",
     "bower": "~1.2.7",
     "grunt": "~0.4.1",
     "grunt-cli": "~0.1.9",
     "grunt-contrib-concat": "~0.3.0",
     "grunt-contrib-copy": "~0.4.1"
-  },
-  "devDependencies": {
-    "nodeunit": ">= 0.6.4"
   },
   "repository": {
     "type": "git",
