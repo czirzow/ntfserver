@@ -14,7 +14,7 @@ static_setup:
 	grunt build
 
 static: static_setup
-	rm -fr deps bower_components
+	#rm -fr deps bower_components
 
 clean:
 	rm -fr deps bower_components static/vendor.*
